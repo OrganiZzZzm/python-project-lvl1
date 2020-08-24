@@ -1,0 +1,11 @@
+setup.py
+brain_games/__init__.py
+brain_games/__init__.pyc
+brain_games/scripts/__init__.py
+brain_games/scripts/__init__.pyc
+brain_games/scripts/brain_games.py
+organizzzzm_brain_games.egg-info/PKG-INFO
+organizzzzm_brain_games.egg-info/SOURCES.txt
+organizzzzm_brain_games.egg-info/dependency_links.txt
+organizzzzm_brain_games.egg-info/entry_points.txt
+organizzzzm_brain_games.egg-info/top_level.txt
